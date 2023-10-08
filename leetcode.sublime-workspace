@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"counter",
+				"counter-reset"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"labelit",
+				"\\labelitemiii                                     "
+			],
+			[
+				"ifelse",
+				"\\if..\\else..\\fi                                   "
+			],
+			[
+				"subsubs",
+				"\\subsubsection{title}                             "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "leetcode_87.cc",
+			"settings":
+			{
+				"buffer_size": 647,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "leetcode.sublime-project",
+			"settings":
+			{
+				"buffer_size": 563,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 316.0,
+		"history":
+		[
+			"ls",
+			"__version__",
+			"__name__",
+			"return 9",
+			"quit()",
+			"exit()",
+			"cls",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hatterm/cppProjects/leetcode"
+	],
+	"file_history":
+	[
+		"/Users/hatterm/cppProjects/leetcode/leetcode.sublime-project",
+		"/Users/hatterm/cppProjects/leetcode/sublime.json",
+		"/Users/hatterm/cppProjects/leetcode/config.json",
+		"/Users/hatterm/cppProjects/leetcode/leetcode_87.cc",
+		"/Users/hatterm/Desktop/untitled.sublime-project",
+		"/Users/hatterm/cppProjects/leetcode/leetcode_76.cc",
+		"/Users/hatterm/Library/Application Support/abnerworks.Typora/themes/notion-light-enhanced-new.css",
+		"/Users/hatterm/cppProjects/leetcode/leetcode_53",
+		"/Users/hatterm/cppProjects/leetcode/leetcode_51.cc",
+		"/Users/hatterm/cppProjects/fundamentals-of-data-structure/week2/add.cc",
+		"/Users/hatterm/Library/Application Support/Sublime Text/Packages/User/cpp.sublime-build",
+		"/Users/hatterm/Desktop/test.cc",
+		"/Users/hatterm/Downloads/Barra-master/demo.py",
+		"/Users/hatterm/Documents/Graduate/personal statement",
+		"/Users/hatterm/Documents/typora.tex",
+		"/Users/hatterm/Desktop/music list",
+		"/Users/hatterm/PycharmProjects/markdownExport/main.py",
+		"/Users/hatterm/Library/Application Support/abnerworks.Typora/themes/notion-light-enhanced.css",
+		"/Users/hatterm/Library/Application Support/abnerworks.Typora/themes/assets-less/typo.css",
+		"/Users/hatterm/Library/Application Support/Sublime Text/Packages/LaTeXTools/LaTeXTools (Advanced).sublime-settings",
+		"/Users/hatterm/Library/Application Support/Sublime Text/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/Users/hatterm/Desktop/untitled.tex",
+		"/Users/hatterm/Documents/财务会计学/财务会计学.tex",
+		"/Users/hatterm/Documents/计量经济学A/计量经济学.tex",
+		"/Users/hatterm/Documents/计量经济学A/计量经济学.log",
+		"/Users/hatterm/Documents/typora_new.tex",
+		"/Users/hatterm/Desktop/default.log",
+		"/Users/hatterm/Library/Application Support/Sublime Text/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/hatterm/Desktop/1.pdf"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "leetcode_87.cc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "leetcode.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 252.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 252.0
+	},
+	"output.Debugger Protocol":
+	{
+		"height": 252.0
+	},
+	"output.exec":
+	{
+		"height": 262.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 204.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cpp.sublime-build",
+	"project": "leetcode.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
